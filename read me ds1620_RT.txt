@@ -1,0 +1,7 @@
+here read_slope and read counter are used so 
+the decimal part is not only 0.5 or 0.00.
+
+this is used with TM1637 digit displayer ; get it installed from 
+arduino libraries: search for TM1637 
+and choose T.park and install .
+you can use another way to display or view result by Serial.print.
